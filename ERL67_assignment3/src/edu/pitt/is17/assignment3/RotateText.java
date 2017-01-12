@@ -1,4 +1,4 @@
-package edu.pitt.is17.assignment3; 	//Eric Laslo,ERL67@pitt.edu,30SEP16,IS17_Assignment3
+package edu.pitt.is17.assignment3; 	// ERL 67 30SEP16,IS17_Assignment3
 
 import javax.swing.JOptionPane;
 
