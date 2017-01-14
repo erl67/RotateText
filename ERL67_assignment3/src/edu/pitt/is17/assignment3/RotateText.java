@@ -2,11 +2,18 @@ package edu.pitt.is17.assignment3; 	// ERL 67 30SEP16,IS17_Assignment3
 
 import javax.swing.JOptionPane;
 
+/**
+ * @author E
+ *
+ */
 public class RotateText {
 
 	private static final int ROTFAC = 13;	//factor by which text is rotated [0-26]
 	private static final int MAXLINE = 50;	//length at which lines should be broken
 
+	/**
+	 * @param args
+	 */
 	public static void main(String[] args) {
 
 		String userInput = "";				//string that holds the user input
